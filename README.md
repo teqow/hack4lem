@@ -1,1 +1,3 @@
-# hack4lem
+# hack4lem - repozytorium zespołu Clubcrawl
+
+## Dzielnik
